@@ -3,7 +3,7 @@
 SEKA (Sekretaris Pribadi berbasis Android) adalah aplikasi asisten digital pribadi yang membantu pengguna mengatur berbagai aspek kehidupan sehari-hari dalam satu platform terintegrasi.
 
 ## Fitur Utama
-![WhatsApp Image 2025-03-24 at 18 56 58_9571e484](https://github.com/user-attachments/assets/6623e6f7-cf38-4ca3-bbe6-7baac6290df5) ![WhatsApp Image 2025-03-24 at 18 56 58_a65a3615](https://github.com/user-attachments/assets/6da1548f-71be-4a82-a6a1-cc7756d5b6bd)
+<img src="https://github.com/user-attachments/assets/6623e6f7-cf38-4ca3-bbe6-7baac6290df5" width="300" alt="Screenshot 1"> <img src="https://github.com/user-attachments/assets/6da1548f-71be-4a82-a6a1-cc7756d5b6bd" width="300" alt="Screenshot 2">
 
 
 1. **To-Do List**: Pengelolaan tugas dengan prioritas, pengingat, dan tenggat waktu
