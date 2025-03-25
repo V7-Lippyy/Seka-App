@@ -33,13 +33,13 @@ SEKA (Sekretaris Pribadi berbasis Android) adalah aplikasi asisten digital priba
 6. **Ringkasan Teks**: AI untuk meringkas teks panjang
    <img src="https://github.com/user-attachments/assets/86b0d6a4-5767-4337-9701-012d4fe9023a" width="200" alt="Screenshot 17">
 
-7. Parafrase**: AI untuk mengubah kalimat dengan makna sama
+8. Parafrase**: AI untuk mengubah kalimat dengan makna sama
    <img src="https://github.com/user-attachments/assets/186ca92a-26ee-4488-8f63-04816f70115c" width="200" alt="Screenshot 18">
-8. **Terjemahan**: AI untuk menerjemahkan antar bahasa
-9. **SEKA AI**: Asisten berbasis AI untuk menjawab pertanyaan
+9. **Terjemahan**: AI untuk menerjemahkan antar bahasa
+10. **SEKA AI**: Asisten berbasis AI untuk menjawab pertanyaan
     <img src="https://github.com/user-attachments/assets/47d47d4e-f246-47a7-8eea-7b7a3008410e" width="200" alt="Screenshot 19">
     <img src="https://github.com/user-attachments/assets/a73a858a-e2f5-4a72-b6d3-241848bf653f" width="200" alt="Screenshot 20">
-10. **Enkripsi Pesan**: Utility untuk enkripsi dan dekripsi pesan
+11. **Enkripsi Pesan**: Utility untuk enkripsi dan dekripsi pesan
     <img src="https://github.com/user-attachments/assets/add455d1-0b01-4e7c-b5ec-1847db68daf3" width="200" alt="Screenshot 21">
 
 ## Teknologi
