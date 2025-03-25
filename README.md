@@ -55,7 +55,7 @@ Pemantauan konsumsi air dengan pengingat
 </div>
 
 ### 6. Ringkasan Teks
-AI untuk meringkas teks panjang
+AI untuk meringkas teks panjang 
 
 <div>
   <img src="https://github.com/user-attachments/assets/86b0d6a4-5767-4337-9701-012d4fe9023a" width="200" alt="Screenshot 17">
@@ -70,6 +70,10 @@ AI untuk mengubah kalimat dengan makna sama
 
 ### 8. Terjemahan
 AI untuk menerjemahkan antar bahasa
+
+<div>
+  <img src="https://github.com/user-attachments/assets/eed86ea6-2252-486e-a143-49259e329dbd" width="200" alt="Screenshot 30">
+</div>
 
 ### 9. SEKA AI
 Asisten berbasis AI untuk menjawab pertanyaan
