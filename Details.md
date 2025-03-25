@@ -386,15 +386,7 @@ fun getUncompletedTodos(): Flow<List<TodoItem>>
 fun getTransactionsByDateRange(startDate: Date, endDate: Date): Flow<List<KeuanganItem>>
 ```
 
-## 11. Lisensi dan Hak Cipta (License and Copyright)
-
-**Lisensi**:  
-SEKA dilisensikan di bawah MIT License.
-
-**Hak Cipta**:  
-© 2025 Muhammad Alif Qadri
-
-## 12. Daftar Pustaka dan Referensi
+## 11. Daftar Pustaka dan Referensi
 
 - [Jetpack Compose Documentation](https://developer.android.com/jetpack/compose)
 - [Android Architecture Components](https://developer.android.com/topic/libraries/architecture)
